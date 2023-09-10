@@ -11,6 +11,6 @@ mrsnet-rest is the middleware, handling information exchange between client-side
 
 ## How to run ? (Linux)
 
-Step 1： Install dependencies of mrsnet-react and mrsnet-rest : npm install  （or using yarn）
-Step 2： Start server(mrsnet-rest)： node app.js
-Step 3： Start React(mrsnet-react): npm start
+## Step 1： Install dependencies of mrsnet-react and mrsnet-rest : npm install  （or using yarn）
+## Step 2： Start server(mrsnet-rest)： node app.js
+## Step 3： Start React(mrsnet-react): npm start
